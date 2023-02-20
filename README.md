@@ -4,7 +4,7 @@ A desktop GUI application for student to login using Facial Recognition implemen
 
 This project was completed in 3 days due to the client emergency.
 
-It has a Registration, Login, face recognition and a user info interface.
+It has a Registration, Login, face recognition and a user info page.
 
 
 
